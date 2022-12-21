@@ -9,5 +9,6 @@ public class String1 {
         System.out.println("ФИО сотрудника -" + " " + fullName);
         System.out.println("Данные ФИО сотрудника для заполнения отчета —" + " " + fullName.toUpperCase());
         System.out.println("Данные ФИО сотрудника —" + " " + fullName.replace("ё", "е" ));
+        System.out.println(firstName);
     }
 }
